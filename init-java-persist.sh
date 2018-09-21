@@ -2,7 +2,13 @@
 
 PERSISTENT_DIRECTORIES=$'C:\Users\Administrator
 .java
-.oracle_jre_usage'
+.oracle_jre_usage
+.javaws
+.jpi_cache
+.local
+.cache
+.config'
+
 PERSISTENT_FILES=$'.rmconsole.cert'
 SOURCEPATH='/userhome'
 DESTPATH='/custom/java'
