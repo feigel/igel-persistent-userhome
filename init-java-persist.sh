@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSISTENT_DIRECTORIES=$'C\:\\Users\\Administrator
+PERSISTENT_DIRECTORIES=$'C:\Users\Administrator
 .java
 .oracle_jre_usage'
 PERSISTENT_FILES=$'.rmconsole.cert'
