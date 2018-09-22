@@ -11,7 +11,7 @@ PERSISTENT_DIRECTORIES=$'C:\Users\Administrator
 
 PERSISTENT_FILES=$'.rmconsole.cert'
 SOURCEPATH='/userhome'
-DESTPATH='/custom/java'
+DESTPATH='/custom/persistent'
 LOGGERNAME="${0%%.sh}"
 
 
